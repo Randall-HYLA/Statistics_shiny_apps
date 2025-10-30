@@ -1,5 +1,3 @@
-### lo LOGREEEEE
-
 # Load the required libraries
 library(shiny)
 library(ggplot2)
